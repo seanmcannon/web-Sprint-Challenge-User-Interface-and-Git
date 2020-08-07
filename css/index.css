@@ -159,7 +159,7 @@ p {
 
 nav {
   display: flex;
-  margin: 20px;
+  margin: 20px 10px 20px 0;
   justify-content: center;
   justify-content: space-evenly;
   justify-items: center;
@@ -323,9 +323,12 @@ footer nav a {
 }
 
 .leverage {
-  margin: 5% 0;
+  margin: 5% 0 0 0;
   border-bottom: 1px dotted black;
+  padding: 0 0 0 3%;
+  
 }
+
 
 .leverage p {
   padding: 0 0 3% 0;
